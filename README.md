@@ -13,3 +13,9 @@ And then:
 ```
 npm start
 ```
+
+## Options
+
+There are a number of parameters to configure the app via env vars:
+
+- `PORT`: Specifies on which port will the app be listening.
