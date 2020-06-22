@@ -1,0 +1,22 @@
+{
+  "name": "application",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cct-devops/node-application.git"
+  },
+  "author": "David Gonzalez @dgonzalez (if everything works, if not, I don't know)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cct-devops/node-application/issues"
+  },
+  "homepage": "https://github.com/cct-devops/node-application#readme",
+  "dependencies": {
+    "fastify": "~2.15.0"
+  }
+}
